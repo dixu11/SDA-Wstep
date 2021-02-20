@@ -1,3 +1,5 @@
+package wstep1;
+
 import java.util.Scanner;
 
 public class Warunki {
